@@ -8,8 +8,7 @@ const Navbar = () => {
         <Button>Home</Button>
       </Link>
 
-      <Link to="character">
-        {" "}
+      <Link to="characters">
         <Button>Characters</Button>
       </Link>
 
